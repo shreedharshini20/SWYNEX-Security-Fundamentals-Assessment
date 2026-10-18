@@ -1,0 +1,59 @@
+SWYNEX SECURITY FUNDAMENTALS ASSESSMENT
+
+Task: 1
+Domain: Cybersecurity
+
+1. OBJECTIVE
+
+The objective of this assessment is to understand
+basic cybersecurity risks and learn how to identify,
+document, and mitigate security vulnerabilities
+in an authorized lab environment.
+
+2. TOOLS USED
+
+Operating System: Windows
+Documentation Tool: Notepad
+Repository: GitHub
+
+3. SECURITY RISKS
+
+Risk 1: Weak Passwords
+
+Description:
+Weak passwords may allow unauthorized users to
+access an account.
+
+Mitigation:
+Use strong, unique passwords and enable
+multi-factor authentication.
+
+Risk 2: Outdated Software
+
+Description:
+Outdated software may contain security weaknesses.
+
+Mitigation:
+Install updates and security patches regularly.
+
+Risk 3: Excessive User Permissions
+
+Description:
+Users may have more permissions than necessary.
+
+Mitigation:
+Apply the principle of least privilege.
+
+4. EVIDENCE
+
+The above risks are examples for documentation.
+They have not yet been verified in a lab.
+Actual findings and screenshots must be added
+after performing authorized security checks.
+
+5. CONCLUSION
+
+This assessment introduces basic cybersecurity
+risks and their mitigation methods. Practical
+testing in an authorized lab is required to
+verify security findings and collect evidence.
